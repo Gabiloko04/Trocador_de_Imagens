@@ -1,0 +1,2 @@
+rootProject.name = "Trocador de Imagens"
+include ':app'
